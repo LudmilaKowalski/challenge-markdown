@@ -5,7 +5,7 @@ Challenge
 
 *Don't worry be happy*
 
-![Image](./images/received_153420096832332.png)
+![Image](./images/received_153420096832332.jpeg)
 
 ### Pingouin power 
 
